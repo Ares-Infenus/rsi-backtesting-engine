@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# Ejecutar siempre desde la raíz del proyecto: pytest tests/ -v
+testpaths = ["tests"]
+pythonpath = ["."]          # Agrega el directorio raíz al PYTHONPATH automáticamente
