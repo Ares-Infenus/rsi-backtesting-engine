@@ -1,6 +1,6 @@
 # RSI Backtesting Engine
 
-> A professional, production-grade backtesting framework for RSI mean-reversion strategies on crypto and equity markets.
+> A backtesting framework for RSI mean-reversion strategies on crypto and equity markets.
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
 [![Pytest](https://img.shields.io/badge/Tests-pytest-green?logo=pytest)](https://docs.pytest.org/)
